@@ -5,13 +5,14 @@
 }
 
 body {
+  background-color: #463a90;
   display: grid;
   place-items: center;
   height: 100vh;
 }
 
 #items-wrapper {
-  width: 100vw;
+  width: 90vw;
 }
 
 #items {
