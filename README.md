@@ -1,6 +1,6 @@
 # <b>CarouselDoZero</b>
 
-## Projeto Criado durante o Code/Drops #39 da <b>@rocketseat</b>, aula ministrada pelo <b>@maykbrito</b>.
+## Projeto Criado durante o Code/Drops #39 da @rocketsea, aula ministrada pelo @maykbrito.
 
 Deployed => https://carouseldozero.netlify.app
 
